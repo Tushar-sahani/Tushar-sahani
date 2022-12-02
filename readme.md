@@ -1,6 +1,8 @@
 
 # Welcome 👋
-<h2 align="center"> I am Tushar Sahani, a passionate developer from India.👩🏾‍💻 </h2> &nbsp;
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tushar-sahani/Tushar-sahani/master/name.svg" alt="Tushar Sahani" />
+</h1>
 
 > **I am a B.Tech undergraduate student in Computer Science with a passion of developing solutions and a craving learner and innovator with good cognitive problem solving skills. I try casting creative out-of-the box solutions to real world problems and enjoy working in Java and Technical Societies. Deeply value project based learning experiences and working in a team. Creating value and impact to bring about a change.**
 ## Tech Stacks and Tools:

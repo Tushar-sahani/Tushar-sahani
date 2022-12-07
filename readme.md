@@ -4,14 +4,14 @@
   <img src="https://raw.githubusercontent.com/Tushar-sahani/Tushar-sahani/master/name.svg" alt="Tushar Sahani" />
 </h1>
 
-> **I am a B.Tech undergraduate student in Computer Science with a passion of developing solutions and a craving learner and innovator with good cognitive problem solving skills. I try casting creative out-of-the box solutions to real world problems and enjoy working in Java and Technical Societies. Deeply value project based learning experiences and working in a team. Creating value and impact to bring about a change.**
+> **I am a B.Tech undergraduate student in Computer Science with a passion of developing solutions and a craving learner. I enjoy working in Java and with Technical Societies. Deeply value project based learning experiences and working in a team. Creating value and impact to bring about a change.**
 ## Tech Stacks and Tools:
 <br>
 <p align="left" > <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://ubuntu.com" target="_blank"> <img src="https://assets.ubuntu.com/v1/57a889f6-ubuntu-logo112.png" alt="ubuntu" width="40" height="40"/> </a>  </p>
   <br>
   
   
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Tushar-sahani&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-sahani&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-sahani&layout=compact)
 
 ## Let's connect 🤝
 <br>
@@ -26,11 +26,11 @@
 
 
 &nbsp;
-## 🔥 Streak stats
+## Stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tushar-sahani&show_icons=true&theme=tokyonight" />
   <a href="https://github.com/Tushar-sahani/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="arjit1704's streak" src="https://streak-stats.demolab.com/?user=Tushar-sahani&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tushar-sahani's streak" src="https://streak-stats.demolab.com/?user=Tushar-sahani&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>

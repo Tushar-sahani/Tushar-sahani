@@ -1,5 +1,5 @@
 
-# Welcome 👋
+# Welcome 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tushar-sahani/Tushar-sahani/master/name.svg" alt="Tushar Sahani" />
 </h1>

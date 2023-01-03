@@ -29,8 +29,8 @@
 ## Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tushar-sahani&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tushar-sahani&show_icons=true&theme=tokyonight&hide_border=true" />
   <a href="https://github.com/Tushar-sahani/github-readme-streak-stats">
-    <img width ="48%"title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tushar-sahani's streak" src="https://streak-stats.demolab.com/?user=Tushar-sahani&theme=monokai-metallian&hide_border=true"/>
+    <img width ="48%" alt="Tushar-sahani's streak" src="https://streak-stats.demolab.com/?user=Tushar-sahani&theme=tokyonight&hide_border=true"/>
   </a>
 </p>

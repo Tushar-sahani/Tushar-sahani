@@ -11,7 +11,7 @@
   <br>
   
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-sahani&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-sahani&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Let's connect 🤝
 <br>

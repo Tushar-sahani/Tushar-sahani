@@ -4,7 +4,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tushar-sahani&label=Profile%20views&color=0e75b6&style=flat" alt="Tushar-sahani" /> </p>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning about **TypeScript and NextJS**
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning about **SpringBoot**
 
 - 📫 How to reach me **tusharsahani000@gmail.com**
 
